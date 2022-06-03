@@ -1,0 +1,15 @@
+/Users/GRI$$$HA/Projects/Functions/bin/Debug/net5.0/Functions.deps.json
+/Users/GRI$$$HA/Projects/Functions/bin/Debug/net5.0/Functions.runtimeconfig.json
+/Users/GRI$$$HA/Projects/Functions/bin/Debug/net5.0/Functions.runtimeconfig.dev.json
+/Users/GRI$$$HA/Projects/Functions/bin/Debug/net5.0/Functions.dll
+/Users/GRI$$$HA/Projects/Functions/bin/Debug/net5.0/ref/Functions.dll
+/Users/GRI$$$HA/Projects/Functions/bin/Debug/net5.0/Functions.pdb
+/Users/GRI$$$HA/Projects/Functions/obj/Debug/net5.0/Functions.csproj.AssemblyReference.cache
+/Users/GRI$$$HA/Projects/Functions/obj/Debug/net5.0/Functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GRI$$$HA/Projects/Functions/obj/Debug/net5.0/Functions.AssemblyInfoInputs.cache
+/Users/GRI$$$HA/Projects/Functions/obj/Debug/net5.0/Functions.AssemblyInfo.cs
+/Users/GRI$$$HA/Projects/Functions/obj/Debug/net5.0/Functions.csproj.CoreCompileInputs.cache
+/Users/GRI$$$HA/Projects/Functions/obj/Debug/net5.0/Functions.dll
+/Users/GRI$$$HA/Projects/Functions/obj/Debug/net5.0/ref/Functions.dll
+/Users/GRI$$$HA/Projects/Functions/obj/Debug/net5.0/Functions.pdb
+/Users/GRI$$$HA/Projects/Functions/obj/Debug/net5.0/Functions.genruntimeconfig.cache
